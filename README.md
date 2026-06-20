@@ -3,7 +3,7 @@
 <p align="center">
   <img src="lateibanner.png" alt="PASTER DEFENDER Banner" width="600"/>
   <br>
-  <b>Advanced Malware, RAT & SDK Poisoning Detection and Removal Tool</b>
+  <b>Advanced Malware, Luckyware, RAT & SDK Poisoning Detection and Removal Tool</b>
 </p>
 
 ---
